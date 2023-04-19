@@ -1,4 +1,4 @@
-# ELSŐ LÉPÉSEK - szebben majd átírom, csak ne vesszen el
+# ELSŐ LÉPÉSEK 
 
 "ng g m admin-modul" és "ng g m root-modul" parancsokkal modulat generáltunk, azokba a szükséges mappa szerkezetet létrehoztuk.
 
